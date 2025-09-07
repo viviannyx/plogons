@@ -23,7 +23,7 @@
        "Description": "Score your neurolink placement in UCoB! /ucobscoring.",
         "IsHide": false,
        "InternalName": "UcobNeuroScoring",
-       "AssemblyVersion": "0.7.1.0",
+       "AssemblyVersion": "0.7.1.1",
         "IsTestingExclusive": false,
        "ApplicableVersion": "any",
        "DalamudApiLevel": 13,
