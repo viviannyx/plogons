@@ -1,15 +1,15 @@
 [
     {
-       "Author": "Yhumi (cont. by Vivian)",
+       "Author": "Yhumi w/ Vivian",
        "Name": "UCoB Clears",
        "Punchline": "Show UCoB clears on adventure plate.",
        "Description": "Show UCoB clears on adventure plate. /ucobclears for settings.",
         "IsHide": false,
        "InternalName": "UcobClears",
-       "AssemblyVersion": "1.2.7.0",
+       "AssemblyVersion": "1.2.8.0",
         "IsTestingExclusive": false,
        "ApplicableVersion": "any",
-       "DalamudApiLevel": 13,
+       "DalamudApiLevel": 14,
         "DownloadCount": 0,
         "SupportsProfiles": true,
         "DownloadLinkInstall": "https://github.com/viviannyx/UcobClears/releases/download/latest/latest.zip",
